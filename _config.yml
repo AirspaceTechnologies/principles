@@ -23,6 +23,8 @@ email: ryan@airspace.com
 description: >- # this means to ignore newlines until "baseurl:"
   This should be a living document. If you found anything you want to change or add, please make a pull request. 
 baseurl: "" # the subpath of your site, e.g. /blog
+root: /
+url: http://airspacetechnologies.github.io
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
