@@ -5,7 +5,6 @@
 layout: home
 ---
 
-# Why do we have principles?
 We are not a feature shop. We are creating a company that is redefining an entire industry. That takes teams of people locked in step and aligned on the same vision. People that understand that the success of the company is defined by nothing more than the sum of their actions. Those actions should be guided by principles that illustrate how we should be interacting with the processes, systems, data, and people that we impact everyday as we march towards achieving goals that other groups would never attempt. 
 
 ---
